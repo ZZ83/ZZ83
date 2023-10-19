@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ZZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=zz83&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zz83)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ZZ83/ZZ83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
