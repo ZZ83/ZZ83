@@ -3,7 +3,6 @@ I'm a self-taught Front-End Developer with a passion for crafting beautiful and 
 
 - 🔭 I’m currently looking for work.
 - 🌱 I’m currently learning JavaScript and React.js.
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: [Website](https://zekelkeys.com) - [Linkedin](https://www.linkedin.com/in/zekel-keys-028273264) 
 - ⚡ Fun fact: I like gaming and mountain biking.
 
