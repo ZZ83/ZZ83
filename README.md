@@ -1,5 +1,7 @@
 # Hi there, I'm Zekel Keys
 
+I'm a self-taught Front-End Developer with a passion for crafting beautiful and user-friendly web experiences.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zz83&layout=compact)
 
 <!--
